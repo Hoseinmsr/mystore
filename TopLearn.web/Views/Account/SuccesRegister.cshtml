@@ -1,0 +1,11 @@
+﻿@model TopLearn.DataLayer.Entities.User.User
+@{
+    ViewData["Title"] = "SuccesRegister";
+}
+
+
+<div class="container alert alert-success" >
+    <p> @Model.UserName عزیز</p>
+    <p>ثبت نام شما با ایمیل @Model.Email انجام شد</p>
+</div>
+<a class="btn btn-warning" asp-action="Index" asp-controller="Home"> بازگشت به صفحه اصلی</a>

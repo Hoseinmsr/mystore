@@ -1,0 +1,56 @@
+E:\projects\first shop for my self\TopLearn.web\TopLearn.DataLayer\bin\Debug\net6.0\TopLearn.DataLayer.deps.json
+E:\projects\first shop for my self\TopLearn.web\TopLearn.DataLayer\bin\Debug\net6.0\TopLearn.DataLayer.runtimeconfig.json
+E:\projects\first shop for my self\TopLearn.web\TopLearn.DataLayer\bin\Debug\net6.0\TopLearn.DataLayer.dll
+E:\projects\first shop for my self\TopLearn.web\TopLearn.DataLayer\bin\Debug\net6.0\ref\TopLearn.DataLayer.dll
+E:\projects\first shop for my self\TopLearn.web\TopLearn.DataLayer\bin\Debug\net6.0\TopLearn.DataLayer.pdb
+E:\projects\first shop for my self\TopLearn.web\TopLearn.DataLayer\obj\Debug\net6.0\TopLearn.DataLayer.csproj.AssemblyReference.cache
+E:\projects\first shop for my self\TopLearn.web\TopLearn.DataLayer\obj\Debug\net6.0\TopLearn.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\first shop for my self\TopLearn.web\TopLearn.DataLayer\obj\Debug\net6.0\TopLearn.DataLayer.AssemblyInfoInputs.cache
+E:\projects\first shop for my self\TopLearn.web\TopLearn.DataLayer\obj\Debug\net6.0\TopLearn.DataLayer.AssemblyInfo.cs
+E:\projects\first shop for my self\TopLearn.web\TopLearn.DataLayer\obj\Debug\net6.0\TopLearn.DataLayer.csproj.CoreCompileInputs.cache
+E:\projects\first shop for my self\TopLearn.web\TopLearn.DataLayer\obj\Debug\net6.0\TopLearn.DataLayer.dll
+E:\projects\first shop for my self\TopLearn.web\TopLearn.DataLayer\obj\Debug\net6.0\ref\TopLearn.DataLayer.dll
+E:\projects\first shop for my self\TopLearn.web\TopLearn.DataLayer\obj\Debug\net6.0\TopLearn.DataLayer.pdb
+E:\projects\first shop for my self\TopLearn.web\TopLearn.DataLayer\obj\Debug\net6.0\TopLearn.DataLayer.genruntimeconfig.cache
+E:\projects\first shop for my self\TopLearn.web - 2\TopLearn.DataLayer\bin\Debug\net6.0\TopLearn.DataLayer.deps.json
+E:\projects\first shop for my self\TopLearn.web - 2\TopLearn.DataLayer\bin\Debug\net6.0\TopLearn.DataLayer.runtimeconfig.json
+E:\projects\first shop for my self\TopLearn.web - 2\TopLearn.DataLayer\bin\Debug\net6.0\TopLearn.DataLayer.dll
+E:\projects\first shop for my self\TopLearn.web - 2\TopLearn.DataLayer\bin\Debug\net6.0\ref\TopLearn.DataLayer.dll
+E:\projects\first shop for my self\TopLearn.web - 2\TopLearn.DataLayer\bin\Debug\net6.0\TopLearn.DataLayer.pdb
+E:\projects\first shop for my self\TopLearn.web - 2\TopLearn.DataLayer\obj\Debug\net6.0\TopLearn.DataLayer.csproj.AssemblyReference.cache
+E:\projects\first shop for my self\TopLearn.web - 2\TopLearn.DataLayer\obj\Debug\net6.0\TopLearn.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\first shop for my self\TopLearn.web - 2\TopLearn.DataLayer\obj\Debug\net6.0\TopLearn.DataLayer.AssemblyInfoInputs.cache
+E:\projects\first shop for my self\TopLearn.web - 2\TopLearn.DataLayer\obj\Debug\net6.0\TopLearn.DataLayer.AssemblyInfo.cs
+E:\projects\first shop for my self\TopLearn.web - 2\TopLearn.DataLayer\obj\Debug\net6.0\TopLearn.DataLayer.csproj.CoreCompileInputs.cache
+E:\projects\first shop for my self\TopLearn.web - 2\TopLearn.DataLayer\obj\Debug\net6.0\TopLearn.DataLayer.dll
+E:\projects\first shop for my self\TopLearn.web - 2\TopLearn.DataLayer\obj\Debug\net6.0\ref\TopLearn.DataLayer.dll
+E:\projects\first shop for my self\TopLearn.web - 2\TopLearn.DataLayer\obj\Debug\net6.0\TopLearn.DataLayer.pdb
+E:\projects\first shop for my self\TopLearn.web - 2\TopLearn.DataLayer\obj\Debug\net6.0\TopLearn.DataLayer.genruntimeconfig.cache
+E:\projects\first shop for my self\TopLearn.web - 4\TopLearn.DataLayer\bin\Debug\net6.0\TopLearn.DataLayer.deps.json
+E:\projects\first shop for my self\TopLearn.web - 4\TopLearn.DataLayer\bin\Debug\net6.0\TopLearn.DataLayer.runtimeconfig.json
+E:\projects\first shop for my self\TopLearn.web - 4\TopLearn.DataLayer\bin\Debug\net6.0\TopLearn.DataLayer.dll
+E:\projects\first shop for my self\TopLearn.web - 4\TopLearn.DataLayer\bin\Debug\net6.0\ref\TopLearn.DataLayer.dll
+E:\projects\first shop for my self\TopLearn.web - 4\TopLearn.DataLayer\bin\Debug\net6.0\TopLearn.DataLayer.pdb
+E:\projects\first shop for my self\TopLearn.web - 4\TopLearn.DataLayer\obj\Debug\net6.0\TopLearn.DataLayer.csproj.AssemblyReference.cache
+E:\projects\first shop for my self\TopLearn.web - 4\TopLearn.DataLayer\obj\Debug\net6.0\TopLearn.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\first shop for my self\TopLearn.web - 4\TopLearn.DataLayer\obj\Debug\net6.0\TopLearn.DataLayer.AssemblyInfoInputs.cache
+E:\projects\first shop for my self\TopLearn.web - 4\TopLearn.DataLayer\obj\Debug\net6.0\TopLearn.DataLayer.AssemblyInfo.cs
+E:\projects\first shop for my self\TopLearn.web - 4\TopLearn.DataLayer\obj\Debug\net6.0\TopLearn.DataLayer.csproj.CoreCompileInputs.cache
+E:\projects\first shop for my self\TopLearn.web - 4\TopLearn.DataLayer\obj\Debug\net6.0\TopLearn.DataLayer.dll
+E:\projects\first shop for my self\TopLearn.web - 4\TopLearn.DataLayer\obj\Debug\net6.0\ref\TopLearn.DataLayer.dll
+E:\projects\first shop for my self\TopLearn.web - 4\TopLearn.DataLayer\obj\Debug\net6.0\TopLearn.DataLayer.pdb
+E:\projects\first shop for my self\TopLearn.web - 4\TopLearn.DataLayer\obj\Debug\net6.0\TopLearn.DataLayer.genruntimeconfig.cache
+E:\projects\first shop for my self\TopLearn.web - 5\TopLearn.DataLayer\bin\Debug\net6.0\TopLearn.DataLayer.deps.json
+E:\projects\first shop for my self\TopLearn.web - 5\TopLearn.DataLayer\bin\Debug\net6.0\TopLearn.DataLayer.runtimeconfig.json
+E:\projects\first shop for my self\TopLearn.web - 5\TopLearn.DataLayer\bin\Debug\net6.0\TopLearn.DataLayer.dll
+E:\projects\first shop for my self\TopLearn.web - 5\TopLearn.DataLayer\bin\Debug\net6.0\ref\TopLearn.DataLayer.dll
+E:\projects\first shop for my self\TopLearn.web - 5\TopLearn.DataLayer\bin\Debug\net6.0\TopLearn.DataLayer.pdb
+E:\projects\first shop for my self\TopLearn.web - 5\TopLearn.DataLayer\obj\Debug\net6.0\TopLearn.DataLayer.csproj.AssemblyReference.cache
+E:\projects\first shop for my self\TopLearn.web - 5\TopLearn.DataLayer\obj\Debug\net6.0\TopLearn.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\first shop for my self\TopLearn.web - 5\TopLearn.DataLayer\obj\Debug\net6.0\TopLearn.DataLayer.AssemblyInfoInputs.cache
+E:\projects\first shop for my self\TopLearn.web - 5\TopLearn.DataLayer\obj\Debug\net6.0\TopLearn.DataLayer.AssemblyInfo.cs
+E:\projects\first shop for my self\TopLearn.web - 5\TopLearn.DataLayer\obj\Debug\net6.0\TopLearn.DataLayer.csproj.CoreCompileInputs.cache
+E:\projects\first shop for my self\TopLearn.web - 5\TopLearn.DataLayer\obj\Debug\net6.0\TopLearn.DataLayer.dll
+E:\projects\first shop for my self\TopLearn.web - 5\TopLearn.DataLayer\obj\Debug\net6.0\ref\TopLearn.DataLayer.dll
+E:\projects\first shop for my self\TopLearn.web - 5\TopLearn.DataLayer\obj\Debug\net6.0\TopLearn.DataLayer.pdb
+E:\projects\first shop for my self\TopLearn.web - 5\TopLearn.DataLayer\obj\Debug\net6.0\TopLearn.DataLayer.genruntimeconfig.cache

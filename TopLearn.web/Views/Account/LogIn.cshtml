@@ -1,0 +1,50 @@
+﻿@model TopLearn.Core.DTOs.LogInViewModel
+@{
+    ViewData["Title"] = "ورود به سایت";
+}
+
+<body>
+
+    <div class="container" style="margin-top:200px; margin-bottom:200px;">
+
+      <form class="form-signin" method="post" asp-action="LogIn">
+            @if (ViewBag.EditProfile == true)
+            {
+             <div class="alert alert-warnning">
+                 به دلیل ویرایش پروفایل لطفا مجدد لاگین کنید
+             </div>
+            }
+            <h2 class="form-signin-heading">لطفا وارد حساب خود شوید</h2>
+        <br />
+        <label asp-for="Email" class="sr-only">ایمیل</label>
+       
+        <input type="email" asp-for="Email" class="form-control" placeholder="ادرس ایمیل" required="" autofocus="">
+         <span asp-validation-for="Email" style="color:red"></span>
+        <br />
+        <label asp-for="Password" class="sr-only">رمز ورود</label>
+        <input type="password" asp-for="Password" class="form-control" placeholder="رمز ورود" required="">
+        <span asp-validation-for="Password" style="color:red"></span>
+        <div class="checkbox">
+          <label>
+            <input type="checkbox" asp-for="RememberMe" value="remember-me">مرا به خاطر بسپار    
+            <br />
+            <a asp-action="ForGotPassWord">
+                رمزتو یادت رفته؟
+            </a>
+            <br />
+            <a asp-action="Register">
+                هنوز ثبت نام نکردی؟
+            </a>
+          </label>
+        </div>
+        <button class="btn  btn-primary " type="submit">ورود به سایت</button>
+      </form>
+
+    </div> <!-- /container -->
+
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+  
+
+</body>

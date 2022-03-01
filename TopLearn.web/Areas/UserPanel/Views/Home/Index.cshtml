@@ -1,0 +1,43 @@
+﻿@using TopLearn.Core.Convertors
+@model TopLearn.Core.DTOs.UserPanelViewModel
+@{
+    ViewData["Title"] = "پنل کاربری" + User.Identity.Name;
+}
+
+
+<div class="container">
+    <div class="row" style="padding-top:10px;">
+    <partial name="_SideBar">
+
+    </partial>
+        <div class="col-md-9">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3> اطلاعات کاربری </h3>
+                </div>
+                <div class="panel-body">
+                    <p>
+                        <ul>
+                            <li> <i class="zmdi zmdi-assignment-account"></i> نام کاربری :  @Model.UserName </li>
+                            <li> <i class="zmdi zmdi-email"></i> ایمیل : @Model.Email </li>
+                            <li> <i class="zmdi zmdi-calendar-check"></i> تاریخ عضویت : @Model.RegisterDate.ToShamsi() </li>
+                            <li> <i class="zmdi zmdi-account"></i> موجودی حساب : @Model.Wallet تومان </li>
+                        </ul>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
